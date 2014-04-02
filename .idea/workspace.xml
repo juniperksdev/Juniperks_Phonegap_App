@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78ca6df5-ac74-4af1-91c7-99c32f9ffdd6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/www/icon.png" afterPath="$PROJECT_DIR$/www/icon_original.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/www/img/logo.png" afterPath="$PROJECT_DIR$/www/img/logo_original.png" />
     </list>
     <ignored path="juniperks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="0" selection-start="5075" selection-end="5075" vertical-scroll-proportion="0.23324743" vertical-offset="992" max-vertical-offset="1768">
+            <state line="79" column="118" selection-start="6151" selection-end="6151" vertical-scroll-proportion="1.109536" vertical-offset="482" max-vertical-offset="1768">
               <folding />
             </state>
           </provider>
@@ -123,6 +124,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\U23773\Desktop\personal\juniperks\www" />
+      <recent name="C:\Users\U23773\Desktop\personal\juniperks\www\img" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
@@ -211,14 +218,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/icon.png">
+    <entry file="file://$PROJECT_DIR$/www/icon_original.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/logo_original.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="0" selection-start="5075" selection-end="5075" vertical-scroll-proportion="0.23324743" vertical-offset="992" max-vertical-offset="1768">
+        <state line="79" column="118" selection-start="6151" selection-end="6151" vertical-scroll-proportion="1.109536" vertical-offset="482" max-vertical-offset="1768">
           <folding />
         </state>
       </provider>
